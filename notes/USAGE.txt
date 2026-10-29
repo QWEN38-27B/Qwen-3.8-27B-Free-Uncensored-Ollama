@@ -1,0 +1,4 @@
+USAGE Qwen-3.8-27B-Free-Uncensored-Ollama
+qwen 3.8 27b. ollama. huggingface gguf.
+Extract. Run. See readme.
+Stamp rev-x0to1v-20261029

@@ -1,0 +1,3 @@
+CHANGELOG Qwen-3.8-27B-Free-Uncensored-Ollama
+v3.8.28 2026-08-26
+Stamp rev-x0to1v-20261029
